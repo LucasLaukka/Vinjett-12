@@ -22,7 +22,7 @@ public class Main {
 		}
 		
 		System.out.println("Den här filen ska vara ändrad nu, och ligga i branch1");	
-		//"Ännu en ändring bara för att se vad som händer"
+		//"En tredje ändring bara för att se vad som händer"
 
 	}
 
